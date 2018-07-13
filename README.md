@@ -5,7 +5,11 @@
 - <details>
     <summary> Brit Wijnmalen - Sketchnotes </summary>
     <p></p>
-    <img src="">
+    <img src="https://image.ibb.co/bMr8ro/IMG_20180713_101248_HDR.jpg" alt=" ">
+    <img src="https://image.ibb.co/hU9pxT/IMG_20180713_101329_HDR.jpg" alt=" ">
+    <img src="https://image.ibb.co/ci4Tro/IMG_20180713_101039_HDR.jpg" alt=" ">
+    <img src="https://image.ibb.co/eZNEWo/IMG_20180713_101107_HDR.jpg" alt=" ">
+    <img src="https://image.ibb.co/mHDXHT/IMG_20180713_101122_HDR.jpg" alt=" ">
   </details>  
 
 - <details>
