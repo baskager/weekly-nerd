@@ -54,7 +54,7 @@
 
 </details>
 
-- Ischa Gast (Schiphol) - Accessibility **Not able to attend**
+- Ischa Gast (Schiphol) - Accessibility **Not able to attend due to hospital checkup**
 
 - <details>
   <summary> Niels Leenheer (HTML5test) - Obscure browsers </summary>
@@ -63,7 +63,7 @@
 - Peter Peerdeman (Lifely) - GraphQL - **Canceled**
 - Léonie Watson - Inclusive Design - **Canceled**
 
-* Hackathon @ Master Digital Design - Rapid Prototyping **Not able to attend**
+* Hackathon @ Master Digital Design - Rapid Prototyping **Not able to attend due to hospital checkup**
 
 * <details>
   <summary> Vitaly Friedman (Smashing Magazine) - Where we are heading </summary>
