@@ -34,17 +34,23 @@
   </details>
 
 - <details>
-  <summary> Anne van den Hoogen (Tamtam) - Developer </summary>
-  <p></p>
-  <img src="">
-  <img src="">
-
-</details>
+    <summary> Anne van den Hoogen (Tamtam) - Developer </summary>
+    <p></p>
+    <img src="https://image.ibb.co/dOPuWo/IMG_20180713_104512_HDR.jpg">
+    <img src="https://image.ibb.co/cqZTro/IMG_20180713_104457_HDR.jpg">
+    <img src="https://image.ibb.co/eMQOP8/IMG_20180713_104520_HDR.jpg">
+  </details>
 
 - <details>
   <summary> Jasper Moelker (Voorhoede) - DevLovesDes </summary>
   <p></p>
-  <img src="">
+    <img src="https://preview.ibb.co/eDPNHT/IMG_20180713_104544_HDR.jpg">
+    <img src="https://image.ibb.co/g9kCHT/IMG_20180713_104527_HDR.jpg">
+    <img src="https://image.ibb.co/kuXyro/IMG_20180713_104548_HDR.jpg">
+    <img src="https://image.ibb.co/fruuWo/IMG_20180713_104534_HDR.jpg">
+    <img src="https://image.ibb.co/j4Xyro/IMG_20180713_104555_HDR.jpg">
+    <img src="https://image.ibb.co/kq84Wo/IMG_20180713_104621_HDR.jpg">
+    <img src="https://image.ibb.co/cGVUxT/IMG_20180713_104625_HDR.jpg">
 
 </details>
 
