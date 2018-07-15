@@ -16,8 +16,10 @@
 - <details>
     <summary> Titus Wormer (HvA) - Advanced Git Tips & Tricks </summary>
     <p></p>
-    <img src="">
-    <img src="">
+    <img src="https://image.ibb.co/jRRrBo/IMG_20180713_101348_HDR.jpg">
+    <img src="https://image.ibb.co/fZFJro/IMG_20180713_101400_HDR.jpg">
+    <img src="https://image.ibb.co/eCmDP8/IMG_20180713_101405_HDR.jpg">
+    <img src="https://image.ibb.co/ifBrBo/IMG_20180713_101608_HDR.jpg">
   </details>  
 
 - <details>
