@@ -57,8 +57,10 @@
 - Ischa Gast (Schiphol) - Accessibility **Not able to attend due to hospital checkup**
 
 - <details>
-  <summary> Niels Leenheer (HTML5test) - Obscure browsers </summary>
+  <summary> Niels Leenheer (HTML5test) - Obscure browsers</summary>
   <p></p>
+  <img src="https://image.ibb.co/gc1mE8/IMG_20180715_125123_HDR.jpg">
+  <img src="https://image.ibb.co/h7N41o/IMG_20180715_125128_HDR.jpg">
   <img src="">
 - Peter Peerdeman (Lifely) - GraphQL - **Canceled**
 - Léonie Watson - Inclusive Design - **Canceled**
