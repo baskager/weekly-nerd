@@ -23,14 +23,15 @@
   </details>  
 
 - <details>
-  <summary> Peter Paul Koch (PPK) - Browser bloat </summary>
-  <p></p>  
-  <img src="https://image.ibb.co/fMz048/IMG_20180713_101719_HDR.jpg">
-  <img src="https://image.ibb.co/fEjpxT/IMG_20180713_101613_HDR.jpg">
-  <img src="https://image.ibb.co/gX8zxT/IMG_20180713_101727_HDR.jpg">
-  <img src="https://image.ibb.co/f7wPWo/IMG_20180713_101620_HDR.jpg">
-
-</details>
+    <summary> Peter Paul Koch (PPK) - Browser bloat </summary>
+    <p></p>  
+    <img src="https://image.ibb.co/fMz048/IMG_20180713_101719_HDR.jpg">
+    <img src="https://image.ibb.co/fEjpxT/IMG_20180713_101613_HDR.jpg">
+    <img src="https://image.ibb.co/gX8zxT/IMG_20180713_101727_HDR.jpg">
+    <img src="https://image.ibb.co/f7wPWo/IMG_20180713_101620_HDR.jpg">
+    <img src="https://preview.ibb.co/jAOMBo/IMG_20180713_104457_HDR.jpg">
+    <img src="https://image.ibb.co/eLQCHT/IMG_20180713_104507_HDR.jpg">
+  </details>
 
 - <details>
   <summary> Anne van den Hoogen (Tamtam) - Developer </summary>
