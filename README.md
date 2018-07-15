@@ -25,8 +25,10 @@
 - <details>
   <summary> Peter Paul Koch (PPK) - Browser bloat </summary>
   <p></p>  
-  <img src="">
-  <img src="">
+  <img src="https://image.ibb.co/fMz048/IMG_20180713_101719_HDR.jpg">
+  <img src="https://image.ibb.co/fEjpxT/IMG_20180713_101613_HDR.jpg">
+  <img src="https://image.ibb.co/gX8zxT/IMG_20180713_101727_HDR.jpg">
+  <img src="https://image.ibb.co/f7wPWo/IMG_20180713_101620_HDR.jpg">
 
 </details>
 
