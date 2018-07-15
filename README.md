@@ -79,10 +79,10 @@
 - <details>
   <summary>  Bruce Lawson (W3C) - Current State </summary>
   <p></p>
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
+  <img src="https://image.ibb.co/fvKBBo/IMG_20180713_105041_HDR.jpg">
+  <img src="https://image.ibb.co/fL1f48/IMG_20180713_105047_HDR.jpg">
+  <img src="https://image.ibb.co/eDxWBo/IMG_20180713_105053_HDR.jpg">
+  <img src="https://image.ibb.co/cbKNHT/IMG_20180713_105058_HDR.jpg">
+  <img src="https://image.ibb.co/cmRrBo/IMG_20180713_105102_HDR.jpg">
 
 </details>
