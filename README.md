@@ -68,14 +68,21 @@
 * <details>
   <summary> Vitaly Friedman (Smashing Magazine) - Where we are heading </summary>
   <p></p>
-  <img src="http://puu.sh/ALjew/ffaf496953.jpg">
+  <img src="https://image.ibb.co/fSVjWo/IMG_20180713_105005_HDR.jpg">
+  <img src="https://image.ibb.co/gBwDP8/IMG_20180713_105029_HDR.jpg">
+  <img src="https://image.ibb.co/er7L48/IMG_20180713_105009_HDR.jpg">
+  <img src="https://image.ibb.co/j61rBo/IMG_20180713_105016_HDR.jpg">
+  <img src="https://image.ibb.co/b4Xyro/IMG_20180713_105022_HDR.jpg">
 
 </details>
 
 - <details>
   <summary>  Bruce Lawson (W3C) - Current State </summary>
   <p></p>
-  <img src="http://puu.sh/AUzxC/7055feb97c.jpg">
-  <img src="http://puu.sh/AUzAR/55fc44b36c.jpg">
+  <img src="">
+  <img src="">
+  <img src="">
+  <img src="">
+  <img src="">
 
 </details>
